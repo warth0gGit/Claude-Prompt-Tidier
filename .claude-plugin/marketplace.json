@@ -1,0 +1,11 @@
+{
+  "name": "prompt-tidier",
+  "owner": { "name": "Prompt Tidier" },
+  "plugins": [
+    {
+      "name": "prompt-tidier",
+      "source": "./",
+      "description": "Clean up messy prompts with /tidy (light) or /tidy deep (full restructure)."
+    }
+  ]
+}

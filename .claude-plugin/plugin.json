@@ -1,0 +1,6 @@
+{
+  "name": "prompt-tidier",
+  "version": "0.1.0",
+  "description": "Clean up messy prompts with /tidy (light) or /tidy deep (full restructure).",
+  "license": "MIT"
+}
